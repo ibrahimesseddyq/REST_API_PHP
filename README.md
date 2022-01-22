@@ -11,6 +11,8 @@ Brief en plusieurs parties CDA + DWWM.
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+
 
 
 
@@ -25,7 +27,7 @@ Travail et rendu individuel mais il n’est pas interdit de s’entraider, bien 
 
 
 <details>
-<summary>Partie 1</summary>
+<summary><h1><strong>Partie 1 : (Click Here!)</strong></h1></summary>
 <h3>Référentiels de compétences</h3>
 Les compétences professionnelles du référentiel « CDA » couvertes par ce projet sont :
 
