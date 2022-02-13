@@ -3,7 +3,7 @@
 Brief en plusieurs parties CDA + DWWM.
 
 
-## Technologies avec lesquelles j'ai travaillé
+## Technologies et Outils avec lesquelles j'ai travaillé
 <p>
 <img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
